@@ -8,7 +8,7 @@ make
 
 ## Exec
 ```
-./client
+./client.exe
 ```
 
 
